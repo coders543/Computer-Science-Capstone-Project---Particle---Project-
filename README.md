@@ -4,7 +4,7 @@ Welcome to the magical world of Elsa! You can now access this project in two way
 
 ### 🚀 **Option 1: Run in Browser (Easiest)**
 Access the live version directly on your computer without installing anything! 
-**[Live Web Version](https://ahanasamaddar-dot.github.io/kiyoi-ai-particle-project/)**
+**[Live Web Version](https://coders543.github.io/Computer-Science-Capstone-Project---Particle---Project-/)**
 *(Note: You will need to allow Camera and Microphone access in your browser.)*
 
 ---
